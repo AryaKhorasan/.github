@@ -2,178 +2,126 @@
   
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=AryaKhorasan;Where+the+sun+rises;You+name+it.+We+build+it." alt="Typing SVG">
 
-# ☀️ **AryaKhorasan**
+# ☀️ AryaKhorasan
 
-### *Where the Sun Rises — Iranian Dev Team*
-
-**You name it. We build it.**
+### Iranian Dev Team — You name it. We build it.
 
 ---
 
-[![Sponsor AryaKhorasan](https://img.shields.io/badge/⭐_Sponsor_Our_Journey_⭐-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=ff1493&color=ff69b4)](https://github.com/sponsors/AryaKhorasan)
+[![Sponsor](https://img.shields.io/badge/Sponsor_AryaKhorasan-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/AryaKhorasan)
 
 </div>
 
 ---
 
-## 📜 **Why "Khorasan"?**
+## 📌 Who We Are
 
-> *Khorasan* means *"the land where the sun rises"* — a place of new beginnings, light, and endless possibility.
+We are a **private engineering team from Iran**. No fluff. No over-promising. We design, build, and scale anything you need — from web platforms and backend APIs to security tools and automation systems.
 
-We believe in bringing that same light to every line of code we write. **No matter the problem, we find a way.**
-
----
-
-## 🎯 **What We Do (Yes, Anything)**
-
-We don't believe in "we only do X". Bring us your idea — we'll build it. Period.
-
-| Category | Examples of What We Can Build |
-|----------|-------------------------------|
-| 🌐 **Web Platforms** | E‑commerce sites, admin dashboards, SaaS products, marketplaces, portals |
-| 🛡️ **Security Tools** | Custom scanners, log analyzers, watchtowers, security automation |
-| 🤖 **Bots & Automation** | Telegram bots, Discord bots, scrapers, cron jobs, notification systems |
-| 📱 **Backend APIs** | REST APIs, GraphQL, real‑time WebSocket services, microservices |
-| 🏢 **Internal Tools** | CRM, inventory systems, analytics dashboards, HR tools, reporting engines |
-| ⚙️ **Anything Custom** | CLI tools, data processors, migration scripts, file converters, you name it |
-
-> *If it needs code, we can build it. No over‑promising. Just delivery.*
+**Core belief:** Code should be clean, secure, and maintainable years from now.
 
 ---
 
-## ⚙️ **Our Toolbox**
+## 🎯 What We Do
 
-Whatever the job requires, we master it. We don't chase trends — we use what works.
+We don't limit ourselves to one field. Bring us your idea — we'll figure out how to build it.
+
+| Category | Examples |
+|----------|----------|
+| **Web Platforms** | E-commerce, dashboards, portals, SaaS, marketplaces |
+| **Security Tools** | Scanners, log analyzers, watchtowers, automation scripts |
+| **Bots & Automation** | Telegram bots, scrapers, notification systems, cron jobs |
+| **Backend APIs** | REST, GraphQL, real-time WebSocket services |
+| **Internal Tools** | Admin panels, CRM, inventory systems, analytics dashboards |
+| **Anything Custom** | CLI tools, data processors, migration scripts, you name it |
+
+> *If it needs code, we can build it. No over-promising. Just delivery.*
+
+---
+
+## ⚙️ Technology Stack
+
+We don't chase trends. We master tools that last.
 
 | Layer | Technologies |
 |-------|--------------|
 | **Backend** | Laravel, Python (Django/FastAPI), Go |
 | **Frontend** | Vue.js, React, Next.js, Livewire, Alpine.js |
 | **Database** | PostgreSQL, MySQL, Redis, SQLite |
-| **Infra & DevOps** | Docker, GitHub Actions, Kubernetes (basic), Linux servers |
-| **Other** | WebSockets, GraphQL, REST, CLI development |
+| **Infra & DevOps** | Docker, GitHub Actions, Kubernetes (basic), Linux |
 
 ---
 
-## 🔭 **What We're Building Now**
+## 🔭 Featured Project
 
-### [Watch Tower](https://github.com/AryaKhorasan/watch-tower)
+### Watch Tower
 
-**Real‑Time Asset Monitoring Platform** — `Python3` + `Laravel 13` + `Vue Core`
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-Watch Tower detects newly added assets from defined targets and notifies you instantly across Discord, Telegram, and in‑app alerts. Originally a simple script, now a full platform.
+**Real-Time Asset Monitoring Platform** — Built with Python3 + Laravel 13 + Vue Core
+
+Watch Tower detects newly added assets from defined targets and notifies you instantly across multiple channels.
 
 | Feature | Description |
 |---------|-------------|
-| 📡 Multi‑Channel Alerts | Discord · Telegram · In‑App · SMS (planned) |
-| ⚡ Real‑Time Sync | WebSockets + Laravel Echo for live broadcasting |
-| 🎛️ Reactive Dashboard | Volt class‑based components + Vue core |
-| 🔐 SaaS Ready | Authentication, multi‑user support, scalable architecture |
+| **Multi-Channel Notifications** | Discord, Telegram, in-dashboard alerts (SMS planned) |
+| **Laravel Echo Ready** | WebSocket-powered live broadcasting, real-time UI sync |
+| **Reactive Dashboard** | Built with Volt class-based components + Vue core |
+| **Authentication** | Full user system, SaaS-ready foundation |
+| **Scalable Architecture** | Designed for growth, not just utility |
 
-> *Started as a HackerOne monitor. Now it's a foundation for bigger things.*
+> *Originally started as a local script to monitor HackerOne program updates. Now it's a full platform.*
 
 🔗 **[Explore Watch Tower on GitHub →](https://github.com/AryaKhorasan/watch-tower)**
 
-**More projects coming.** One working tool at a time.
+---
+
+## 💎 Sponsor Us
+
+Your support helps us maintain open-source tools and build more.
+
+**Sponsors receive:**
+- Name in SPONSORS.md across all repositories
+- Priority technical consultation (private channel)
+- Early access to new tools
+- Feature voting rights
+
+[Click to sponsor →](https://github.com/sponsors/AryaKhorasan)
+
+**Can't pay?** Star our repos, report bugs, share our work, or contribute code. You're still part of the community.
 
 ---
 
-## 🌱 **Our Philosophy: Build, Don't Diminish**
+## 🤝 Hire Us (Private Work)
 
-We believe in **healthy competition** — the kind that lifts everyone up, not tears anyone down.
-
-**What drives us:**
-
-- 🤝 **We grow together.** When someone else succeeds, the whole ecosystem wins.
-- 🔍 **We focus on our own craft.** We don't waste energy comparing. We spend it improving.
-- 🌍 **We respect every builder.** Every team has their own strengths, their own journey, their own challenges.
-- 💡 **We believe in abundance.** There's room for everyone who builds quality software.
-
-> *We're here to build great things, not to prove others are less. A rising tide lifts all boats.*
-
----
-
-## 💎 **Sponsor Us — And Be Part of the Journey**
-
-<div align="center">
-  
-**Every sponsor helps us build more. But support isn't just about money.**
-
-[![Sponsor AryaKhorasan](https://img.shields.io/badge/⭐_Sponsor_Our_Journey_⭐-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=ff1493&color=ff69b4)](https://github.com/sponsors/AryaKhorasan)
-
-</div>
-
-### 💰 **Why Become a Financial Sponsor?**
-
-Your money goes directly to:
-
-| Area | What It Enables |
-|------|-----------------|
-| 🛠️ **Maintenance** | Keeping Watch Tower and future tools updated, secure, and bug‑free |
-| 📚 **Documentation** | Writing clear guides, tutorials, and API docs for everyone |
-| 🚀 **New Features** | Building what the community asks for — SMS alerts, team collaboration, and more |
-| ☀️ **Iranian Talent** | Supporting developers building world‑class software without corporate backing |
-
-### 🎁 **Sponsor Benefits**
-
-| Tier | What You Get |
-|------|---------------|
-| **$1+/month** | Name in SPONSORS.md across all repositories |
-| **$5+/month** | Priority technical consultation (private Discord channel) |
-| **$20+/month** | Early access to new tools + vote on next features |
-| **Enterprise** | Custom development, private deployment support, dedicated support |
-
----
-
-### 🤝 **What If You Can't Pay?**
-
-**You are STILL supported. You are STILL valued.**
-
-We believe in **open source for everyone**, not just those who can pay.
-
-- ⭐ **Star our repos** — it helps more people find us
-- 🐛 **Report bugs** — you're helping us improve
-- 💬 **Give feedback** — tell us what features you need
-- 🔁 **Share our work** — spread the word
-- 🧑‍💻 **Contribute code** — pull requests are always welcome
-
-> *Financial or not — if you support us, you're part of the AryaKhorasan community. 💙*
-
----
-
-## 🤝 **Hire Us (Private Work)**
-
-Need something built for your business or startup? We take private contracts.
+We accept select private projects:
 
 | Service | Description |
 |---------|-------------|
-| 🚀 **MVP Development** | From idea to working product — fast and clean |
-| 🛠️ **Custom Internal Tools** | Build exactly what your team needs |
-| 🔧 **Fix or Extend Code** | Legacy code, new features, refactoring |
-| 🏗️ **Backend Architecture** | System design, API planning, consulting |
-| 💡 **"I Have an Idea"** | Tell us. We'll figure out how to build it |
+| **MVP Development** | From idea to working product — fast and clean |
+| **Custom Internal Tools** | Build exactly what your team needs |
+| **Backend Architecture** | System design, API planning, consulting |
+| **Fix or Extend Code** | Legacy code, new features, refactoring |
 
-**Contact:** [Arash](https://github.com/Arash-abraham) — Team Lead  
-*(Telegram: @Octawian | Email: arashebi777@gmail.com)*
+**Contact:** [Arash](https://github.com/Arash-abraham) — Telegram: @Octawian
 
 ---
 
-## 🌟 **Our North Star**
+## 🌟 Our Philosophy
 
-To prove that **Iranian developers can build world‑class software** — for any domain, any challenge, any scale.
-
-And to build a community where **everyone is welcome**, whether you sponsor us financially or just believe in what we do.
+We focus on our craft and respect every builder. Healthy competition lifts everyone.
 
 ---
 
 <div align="center">
   
-**☀️ AryaKhorasan** — *From Iran. For anything you need to build.*
+**AryaKhorasan** — *Built in Iran*
 
 ---
 
-[![GitHub Organization](https://img.shields.io/badge/Organization-181717?style=for-the-badge&logo=github)](https://github.com/AryaKhorasan)
-[![Open Source](https://img.shields.io/badge/Open_Source-❤️-red?style=for-the-badge)](https://github.com/AryaKhorasan)
-![Location](https://img.shields.io/badge/Built_in-Iran-red?style=for-the-badge)
+[![GitHub Organization](https://img.shields.io/badge/Organization-181717?style=flat-square&logo=github)](https://github.com/AryaKhorasan)
+[![Open Source](https://img.shields.io/badge/Open_Source-❤️-red?style=flat-square)](https://github.com/AryaKhorasan)
 
 </div>
